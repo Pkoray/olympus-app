@@ -1,5 +1,7 @@
 # Olympus — An Eternal Chronicle
 
+**🔗 Live: [olympus-app-delta.vercel.app](https://olympus-app-delta.vercel.app)**
+
 An interactive chronicle of the Greek pantheon — 64 gods, titans, heroes and monsters, each with their own shrine page, rendered portrait, and epic. Bilingual (English/Turkish) throughout, with a living family tree, an illustrated map of the ancient world, a night sky of constellations to trace, a vault of sacred relics to inspect in 3D, and a scroll-driven descent into the Underworld.
 
 ## Features
