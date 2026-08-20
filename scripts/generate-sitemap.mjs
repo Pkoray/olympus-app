@@ -9,7 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 
 // Replace with the real production domain before deploying — kept in sync
 // with the canonical/og:url placeholders in index.html.
-const SITE_URL = 'https://olympus.example.com'
+const SITE_URL = 'https://olympus-app-delta.vercel.app'
 
 const today = new Date().toISOString().slice(0, 10)
 

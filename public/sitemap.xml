@@ -1,428 +1,428 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://olympus.example.com/</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/pantheon</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/pantheon</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/family-tree</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/family-tree</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/map</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/map</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/constellations</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/constellations</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/vault</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/vault</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/katabasis</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/katabasis</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/chaos</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/chaos</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/gaia</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/gaia</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/nyx</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/nyx</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/cronus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/cronus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/rhea</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/rhea</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/atlas</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/atlas</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/oceanus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/oceanus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/prometheus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/prometheus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/zeus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/zeus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hera</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hera</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/poseidon</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/poseidon</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hades</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hades</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/athena</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/athena</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/apollo</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/apollo</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/artemis</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/artemis</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/ares</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/ares</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hermes</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hermes</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/dionysus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/dionysus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hephaestus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hephaestus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/aphrodite</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/aphrodite</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/heracles</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/heracles</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/perseus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/perseus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/theseus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/theseus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/achilles</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/achilles</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/odysseus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/odysseus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/daedalus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/daedalus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/icarus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/icarus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/minotaur</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/minotaur</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/medusa</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/medusa</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/cerberus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/cerberus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/chimera</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/chimera</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/erebus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/erebus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/tartarus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/tartarus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/charon</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/charon</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/thanatos</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/thanatos</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hypnos</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hypnos</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/morpheus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/morpheus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hecate</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hecate</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/persephone</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/persephone</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/moirai</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/moirai</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/nemesis</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/nemesis</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/epimetheus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/epimetheus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/demeter</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/demeter</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hestia</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hestia</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/pan</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/pan</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/eros</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/eros</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/jason</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/jason</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/bellerophon</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/bellerophon</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/atalanta</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/atalanta</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/oedipus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/oedipus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/orpheus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/orpheus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/sisyphus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/sisyphus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/tantalus</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/tantalus</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/ariadne</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/ariadne</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/pandora</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/pandora</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/cassandra</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/cassandra</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/circe</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/circe</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/medea</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/medea</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/psyche</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/psyche</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/asclepius</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/asclepius</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/typhon</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/typhon</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/hydra</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/hydra</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/sirens</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/sirens</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://olympus.example.com/shrine/sphinx</loc>
-    <lastmod>2026-08-19</lastmod>
+    <loc>https://olympus-app-delta.vercel.app/shrine/sphinx</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://olympus.example.com/sitemap.xml
+Sitemap: https://olympus-app-delta.vercel.app/sitemap.xml
