@@ -1,0 +1,40 @@
+{
+  "name": "olympus-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "optimize-images": "node scripts/optimize-images.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.11.3",
+    "clsx": "^2.1.1",
+    "framer-motion": "^13.1.0",
+    "lucide-react": "^1.31.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.5",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "jsdom": "^29.1.1",
+    "oxlint": "^1.75.0",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.2.0",
+    "vitest": "^4.1.11"
+  }
+}

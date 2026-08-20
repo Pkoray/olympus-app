@@ -1,0 +1,138 @@
+export const RELICS = [
+  {
+    id: 'masterbolt',
+    icon: 'bolt',
+    nameEn: "Zeus's Master Bolt",
+    nameTr: 'Zeus’un Ana Yıldırımı',
+    wielderEn: 'Zeus, King of Olympus',
+    wielderTr: "Zeus, Olympos'un Kralı",
+    theme: { glow: '#ffd36b', primary: '#0a0f24', secondary: '#1b2a5e' },
+    propertiesEn: ['Commands storm and lightning', 'Can level mountains', 'Symbol of supreme authority'],
+    propertiesTr: ['Fırtınaya ve yıldırıma hükmeder', 'Dağları yerle bir edebilir', "Yüce otoritenin simgesi"],
+    loreEn:
+      "Forged deep in Tartarus by the three Cyclopes as a gift of gratitude after Zeus freed them from their father's prison, the Master Bolt became the instrument of his authority over gods and mortals alike — the weapon that ended the Titanomachy and still strikes down those who defy Olympus.",
+    loreTr:
+      "Zeus onları babalarının hapsinden kurtardıktan sonra bir minnettarlık hediyesi olarak Tartaros'un derinliklerinde üç Kyklops tarafından dövülen Ana Yıldırım, onun tanrılar ve ölümlüler üzerindeki otoritesinin aracı hâline geldi — Titanomakhia'yı bitiren ve hâlâ Olympos'a meydan okuyanları çarpan silah.",
+    epicEn: 'The Titanomachy',
+    epicTr: 'Titanomakhia',
+  },
+  {
+    id: 'talaria',
+    icon: 'talaria',
+    nameEn: "Hermes's Talaria",
+    nameTr: 'Hermes’in Kanatlı Sandaletleri',
+    wielderEn: 'Hermes, Messenger of the Gods',
+    wielderTr: 'Hermes, Tanrıların Habercisi',
+    theme: { glow: '#8fd6ff', primary: '#08131f', secondary: '#123049' },
+    propertiesEn: ['Grants flight at the speed of thought', 'Crosses the boundary of the Underworld', 'Never tires the wearer'],
+    propertiesTr: ['Düşünce hızında uçuş sağlar', 'Yeraltı Dünyası sınırını geçebilir', 'Takanı asla yormaz'],
+    loreEn:
+      'Crafted by Hephaestus at Zeus\'s command, these winged sandals let Hermes move freely between Olympus, the mortal world, and even the halls of Hades — the only Olympian permitted to cross that final boundary and return.',
+    loreTr:
+      "Zeus'un emriyle Hephaistos tarafından yapılan bu kanatlı sandaletler, Hermes'in Olympos, ölümlüler dünyası ve hatta Hades'in salonları arasında özgürce hareket etmesini sağlar — o son sınırı geçip geri dönebilen tek Olymposlu tanrıdır.",
+    epicEn: "The Homeric Hymn to Hermes",
+    epicTr: "Hermes'e Homeros İlahisi",
+  },
+  {
+    id: 'aegis',
+    icon: 'aegis',
+    nameEn: "Athena's Aegis",
+    nameTr: 'Athena’nın Aigis’i',
+    wielderEn: 'Athena, Goddess of Wisdom',
+    wielderTr: 'Athena, Bilgelik Tanrıçası',
+    theme: { glow: '#d7d19a', primary: '#12160f', secondary: '#39432b' },
+    propertiesEn: ['Bears the head of Medusa', 'Turns enemies to stone with terror', 'Impenetrable divine protection'],
+    propertiesTr: ['Medusa’nın başını taşır', 'Düşmanları dehşetle taşa çevirir', 'Delinemez ilahi koruma'],
+    loreEn:
+      "After Perseus slew the gorgon Medusa, he gave her severed head to Athena, who fixed it to her shield. The Aegis became a weapon of pure dread — any who looked upon it in battle were frozen with terror, or turned to stone outright.",
+    loreTr:
+      "Perseus, gorgon Medusa'yı öldürdükten sonra kesik başını Athena'ya verdi; tanrıça onu kalkanına yerleştirdi. Aigis, saf bir dehşet silahına dönüştü — savaşta ona bakan herkes korkuyla donakalır ya da doğrudan taşa dönerdi.",
+    epicEn: 'The Iliad',
+    epicTr: 'İlyada',
+  },
+  {
+    id: 'helmDarkness',
+    icon: 'helm',
+    nameEn: "Hades's Helm of Darkness",
+    nameTr: "Hades'in Karanlık Miğferi",
+    wielderEn: 'Hades, Lord of the Underworld',
+    wielderTr: "Hades, Yeraltı Dünyası'nın Efendisi",
+    theme: { glow: '#8a3ff0', primary: '#0a0508', secondary: '#2b0f1c' },
+    propertiesEn: ['Grants total invisibility', 'Conceals the wearer even from gods', 'Forged alongside the Master Bolt'],
+    propertiesTr: ['Tam görünmezlik sağlar', 'Takanı tanrılardan bile gizler', 'Ana Yıldırımla birlikte dövüldü'],
+    loreEn:
+      'Forged by the Cyclopes in the same breath as Zeus\'s bolt and Poseidon\'s trident, this helm was Hades\'s share of gratitude for the Titans\' defeat. Wearing it, the Lord of the Dead moves utterly unseen — even by his fellow Olympians.',
+    loreTr:
+      "Kyklopslar tarafından Zeus'un yıldırımı ve Poseidon'un üç dişlisiyle aynı anda dövülen bu miğfer, Titanların yenilgisi karşılığında Hades'in payına düşen minnettarlık armağanıydı. Onu takan Ölüler Efendisi, kendi Olymposlu kardeşleri tarafından bile görülmeden hareket eder.",
+    epicEn: 'The Titanomachy',
+    epicTr: 'Titanomakhia',
+  },
+  {
+    id: 'goldenFleece',
+    icon: 'fleece',
+    nameEn: 'The Golden Fleece',
+    nameTr: 'Altın Post',
+    wielderEn: 'Guarded in the grove of Colchis',
+    wielderTr: "Kolkhis Kutsal Korusu'nda korunur",
+    theme: { glow: '#f3d16b', primary: '#1a0e02', secondary: '#4a2404' },
+    propertiesEn: ['Wool of the winged ram Chrysomallos', 'A symbol of kingship and divine favor', 'Guarded by a sleepless dragon'],
+    propertiesTr: ['Kanatlı koç Khrysomallos’un yünü', 'Krallık ve ilahi lütfun simgesi', 'Uykusuz bir ejderha tarafından korunur'],
+    loreEn:
+      'The wool of the ram Chrysomallos, who once carried Phrixus safely across the sea to Colchis, was hung in a sacred grove and set under the eternal watch of a dragon that never slept. Jason and the Argonauts sailed to the edge of the known world to claim it and prove his right to a stolen throne.',
+    loreTr:
+      "Bir zamanlar Phriksos'u denizin üzerinden güvenle Kolkhis'e taşıyan koç Khrysomallos'un yünü, kutsal bir koruda asılı tutulur ve hiç uyumayan bir ejderhanın sonsuz nöbeti altındaydı. Iason ve Argonotlar, çalınmış bir tahta hakkını kanıtlamak için bilinen dünyanın sınırına kadar yelken açtı.",
+    epicEn: 'The Argonautica',
+    epicTr: 'Argonautika',
+  },
+  {
+    id: 'circeWand',
+    icon: 'wand',
+    nameEn: "Circe's Wand",
+    nameTr: 'Kirke’nin Değneği',
+    wielderEn: 'Circe, the Enchantress of Aeaea',
+    wielderTr: 'Kirke, Aiaie’nin Büyücü Kadını',
+    theme: { glow: '#a8d060', primary: '#0e1206', secondary: '#2c3a10' },
+    propertiesEn: ['Reshapes flesh into beast', 'Channels herbal sorcery', 'Broken only by divine-blessed herbs'],
+    propertiesTr: ['Eti hayvana dönüştürür', 'Bitkisel büyüyü yönlendirir', 'Yalnızca ilahi bereketli otlarla bozulabilir'],
+    loreEn:
+      "Carved from a branch touched by her father Helios's own light, Circe's wand channels the transformative power of her potions — a single touch was enough to turn Odysseus's crew into swine, and only the god-given herb moly let their captain resist it.",
+    loreTr:
+      "Babası Helios'un kendi ışığının dokunduğu bir daldan oyulan Kirke'nin değneği, iksirlerinin dönüştürücü gücünü yönlendirir — tek bir dokunuş, Odysseus'un tayfasını domuza çevirmeye yetti; yalnızca tanrı vergisi moly otu kaptanlarının direnmesini sağladı.",
+    epicEn: 'The Odyssey',
+    epicTr: 'Odysseia',
+  },
+  {
+    id: 'pandorasPithos',
+    icon: 'pithos',
+    nameEn: "Pandora's Pithos",
+    nameTr: 'Pandora’nın Pithos’u',
+    wielderEn: 'Pandora, the First Woman',
+    wielderTr: 'Pandora, İlk Kadın',
+    theme: { glow: '#e0c060', primary: '#140e04', secondary: '#3a2c08' },
+    propertiesEn: ['Sealed every sorrow of mortal life', 'Forged by Hephaestus as punishment', 'Kept Hope trapped beneath its rim'],
+    propertiesTr: ['Ölümlü yaşamın her kederini mühürledi', 'Hephaistos tarafından ceza olarak döküldü', 'Umut’u kenarının altında hapsetti'],
+    loreEn:
+      'Though later ages remember it as a "box," the vessel was a great clay pithos, sealed by the gods and given to Pandora with a single command never to open it. Her curiosity broke that command, and every hardship known to mortal life poured out — save Hope, which alone remained trapped beneath the rim.',
+    loreTr:
+      'Sonraki çağlar onu bir "kutu" olarak hatırlasa da, kap aslında tanrılar tarafından mühürlenmiş büyük bir kilden pithostu ve Pandora\'ya asla açmaması emriyle verilmişti. Merakı bu emri bozdu ve ölümlü yaşamın bildiği her zorluk dışarı döküldü — yalnızca Umut, kenarın altında hapsolmuş olarak kaldı.',
+    epicEn: "Hesiod's Works and Days",
+    epicTr: "Hesiodos'un İşler ve Günler'i",
+  },
+  {
+    id: 'ariadnesThread',
+    icon: 'thread',
+    nameEn: "Ariadne's Thread",
+    nameTr: 'Ariadne’nin İpliği',
+    wielderEn: 'Ariadne, Princess of Crete',
+    wielderTr: 'Ariadne, Girit Prensesi',
+    theme: { glow: '#d0a0ff', primary: '#140a18', secondary: '#3a1c48' },
+    propertiesEn: ['Marks a safe path through any maze', 'A gift of love, not force', 'Unwound behind the hero, never broken'],
+    propertiesTr: ['Herhangi bir labirentte güvenli bir yol işaretler', 'Zorla değil, aşkla verilen bir hediye', 'Kahramanın arkasında açılır, asla kopmaz'],
+    loreEn:
+      "A simple spool of thread, worth nothing beside a sword or shield — yet it was this humble gift, not any weapon, that let Theseus walk into the Labyrinth's heart and find his way back out after slaying the Minotaur. Some victories are won by cunning devotion, not strength.",
+    loreTr:
+      "Bir kılıç ya da kalkanın yanında hiçbir değeri olmayan basit bir iplik yumağı — yine de Theseus'un, Minotor'u öldürdükten sonra Labirent'in kalbine gidip çıkış yolunu bulmasını sağlayan, herhangi bir silah değil, bu mütevazı hediyeydi. Bazı zaferler kurnaz bir bağlılıkla kazanılır, güçle değil.",
+    epicEn: 'The Cretan Cycle',
+    epicTr: 'Girit Efsaneleri',
+  },
+]

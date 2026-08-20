@@ -1,0 +1,18 @@
+{
+  "name": "Olympus — An Eternal Chronicle",
+  "short_name": "Olympus",
+  "description": "An interactive chronicle of the Greek pantheon — gods, titans, heroes and monsters, with a living family tree and world map.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "lang": "en",
+  "categories": ["entertainment", "education", "books"],
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
